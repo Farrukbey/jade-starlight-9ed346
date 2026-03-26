@@ -1,9 +1,12 @@
 ---
-title: "Project 2"
-description: "Description of project 2."
-tags: ["Tag 1", "Tag 4", "Tag 5"]
-github: "https://github.com/your-username/project-2"
-liveUrl: "https://project-2.example.com"
+title: Project 1
+description: "TASHKENT INDEX FIN "
+tags:
+  - "Serves "
+  - "Arenda "
+  - Elektr
+github: https://github.com/your-username/project-2
+liveUrl: https://t.me/indexfin_bot
+image: /images/photo_2026-03-26_17-50-29.jpg
 ---
-
-Details about project 2 and what it does.
+TASHKEN INDEX BOZORI uchun yaratilgan hamma bozor hudida  joylashgan obyektlar oʻz balans va toʻlovlarini tekshirishga moʻljallangan bot
